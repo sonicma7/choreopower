@@ -1,0 +1,209 @@
+17:24:50: Creating resource group General
+17:24:50: Creating resource group Internal
+17:24:50: Creating resource group Autodetect
+17:24:50: SceneManagerFactory for type 'DefaultSceneManager' registered.
+17:24:50: Registering ResourceManager for type Material
+17:24:50: Registering ResourceManager for type Mesh
+17:24:50: Registering ResourceManager for type Skeleton
+17:24:50: MovableObjectFactory for type 'ParticleSystem' registered.
+17:24:50: OverlayElementFactory for type Panel registered.
+17:24:50: OverlayElementFactory for type BorderPanel registered.
+17:24:50: OverlayElementFactory for type TextArea registered.
+17:24:50: Registering ResourceManager for type Font
+17:24:50: ArchiveFactory for archive type FileSystem registered.
+17:24:50: ArchiveFactory for archive type Zip registered.
+17:24:51: FreeImage version: 3.10.0
+17:24:51: This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
+17:24:51: Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,cut,xbm,xpm,gif,hdr,g3,sgi,exr,j2k,j2c,jp2
+17:24:51: DDS codec registering
+17:24:51: Registering ResourceManager for type HighLevelGpuProgram
+17:24:51: Registering ResourceManager for type Compositor
+17:24:51: MovableObjectFactory for type 'Entity' registered.
+17:24:51: MovableObjectFactory for type 'Light' registered.
+17:24:51: MovableObjectFactory for type 'BillboardSet' registered.
+17:24:51: MovableObjectFactory for type 'ManualObject' registered.
+17:24:51: MovableObjectFactory for type 'BillboardChain' registered.
+17:24:51: MovableObjectFactory for type 'RibbonTrail' registered.
+17:24:51: Loading library .\RenderSystem_Direct3D9_d
+17:24:52: Installing plugin: D3D9 RenderSystem
+17:24:52: D3D9 : Direct3D9 Rendering Subsystem created.
+17:24:53: D3D9: Driver Detection Starts
+17:24:53: D3D9: Driver Detection Ends
+17:24:53: Plugin successfully installed
+17:24:53: Loading library .\RenderSystem_GL_d
+17:24:54: Installing plugin: GL RenderSystem
+17:24:54: OpenGL Rendering Subsystem created.
+17:24:54: Plugin successfully installed
+17:24:54: Loading library .\Plugin_ParticleFX_d
+17:24:54: Installing plugin: ParticleFX
+17:24:54: Particle Emitter Type 'Point' registered
+17:24:54: Particle Emitter Type 'Box' registered
+17:24:54: Particle Emitter Type 'Ellipsoid' registered
+17:24:54: Particle Emitter Type 'Cylinder' registered
+17:24:54: Particle Emitter Type 'Ring' registered
+17:24:54: Particle Emitter Type 'HollowEllipsoid' registered
+17:24:54: Particle Affector Type 'LinearForce' registered
+17:24:54: Particle Affector Type 'ColourFader' registered
+17:24:54: Particle Affector Type 'ColourFader2' registered
+17:24:54: Particle Affector Type 'ColourImage' registered
+17:24:54: Particle Affector Type 'ColourInterpolator' registered
+17:24:54: Particle Affector Type 'Scaler' registered
+17:24:54: Particle Affector Type 'Rotator' registered
+17:24:54: Particle Affector Type 'DirectionRandomiser' registered
+17:24:54: Particle Affector Type 'DeflectorPlane' registered
+17:24:54: Plugin successfully installed
+17:24:54: Loading library .\Plugin_BSPSceneManager_d
+17:24:54: Installing plugin: BSP Scene Manager
+17:24:54: Plugin successfully installed
+17:24:54: Loading library .\Plugin_CgProgramManager_d
+17:24:55: Installing plugin: Cg Program Manager
+17:24:55: Plugin successfully installed
+17:24:55: Loading library .\Plugin_PCZSceneManager_d.dll
+17:24:56: Installing plugin: Portal Connected Zone Scene Manager
+17:24:56: PCZone Factory Type 'ZoneType_Default' registered
+17:24:56: Plugin successfully installed
+17:24:56: Loading library .\Plugin_OctreeZone_d.dll
+17:24:57: Installing plugin: Octree Zone Factory
+17:24:57: Plugin successfully installed
+17:24:57: Loading library .\Plugin_OctreeSceneManager_d
+17:24:57: Installing plugin: Octree & Terrain Scene Manager
+17:24:57: Plugin successfully installed
+17:24:57: *-*-* OGRE Initialising
+17:24:57: *-*-* Version 1.6.0 (Shoggoth)
+17:24:57: Added resource location '../../assets' of type 'FileSystem' to resource group 'General'
+17:24:57: D3D9 : RenderSystem Option: Allow NVPerfHUD = No
+17:24:57: D3D9 : RenderSystem Option: Anti aliasing = None
+17:24:57: D3D9 : RenderSystem Option: Floating-point mode = Fastest
+17:24:57: D3D9 : RenderSystem Option: Full Screen = No
+17:24:57: D3D9 : RenderSystem Option: Rendering Device = NVIDIA GeForce 7800 GT
+17:24:57: D3D9 : RenderSystem Option: VSync = No
+17:24:57: D3D9 : RenderSystem Option: Video Mode = 800 x 600 @ 32-bit colour
+17:24:57: D3D9 : RenderSystem Option: sRGB Gamma Conversion = No
+17:24:57: CPU Identifier & Features
+17:24:57: -------------------------
+17:24:57:  *   CPU ID: GenuineIntel: Intel(R) Core(TM)2 Duo CPU     T9400  @ 2.53GHz
+17:24:57:  *      SSE: yes
+17:24:57:  *     SSE2: yes
+17:24:57:  *     SSE3: yes
+17:24:57:  *      MMX: yes
+17:24:57:  *   MMXEXT: yes
+17:24:57:  *    3DNOW: no
+17:24:57:  * 3DNOWEXT: no
+17:24:57:  *     CMOV: yes
+17:24:57:  *      TSC: yes
+17:24:57:  *      FPU: yes
+17:24:57:  *      PRO: yes
+17:24:57:  *       HT: no
+17:24:57: -------------------------
+17:24:57: *** Starting Win32GL Subsystem ***
+17:24:57: GLRenderSystem::_createRenderWindow "Choreo Power", 1024x768 windowed  miscParams: FSAA=0 colourDepth=32 displayFrequency=0 gamma=false vsync=false 
+17:24:57: Created Win32Window 'Choreo Power' : 1024x768, 32bpp
+17:24:57: GL_VERSION = 1.1.0
+17:24:57: GL_VENDOR = Microsoft Corporation
+17:24:57: GL_RENDERER = GDI Generic
+17:24:57: GL_EXTENSIONS = GL_WIN_swap_hint GL_EXT_bgra GL_EXT_paletted_texture
+17:24:57: ***************************
+17:24:57: *** GL Renderer Started ***
+17:24:57: ***************************
+17:24:57: Registering ResourceManager for type GpuProgram
+17:24:57: GL: Using framebuffer copy for rendering to textures (worst)
+17:24:57: GL: Warning: RenderTexture size is restricted to size of framebuffer. If you are on Linux, consider using GLX instead of SDL.
+17:24:58: RenderSystem capabilities
+17:24:58: -------------------------
+17:24:58: RenderSystem Name: OpenGL Rendering Subsystem
+17:24:58: GPU Vendor: unknown
+17:24:58: Device Name: GDI Generic
+17:24:58: Driver Version: 1.1.0.0
+17:24:58:  * Fixed function pipeline: yes
+17:24:58:  * Hardware generation of mipmaps: no
+17:24:58:  * Texture blending: no
+17:24:58:  * Anisotropic texture filtering: no
+17:24:58:  * Dot product texture operation: no
+17:24:58:  * Cube mapping: no
+17:24:58:  * Hardware stencil buffer: yes
+17:24:58:    - Stencil depth: 8
+17:24:58:    - Two sided stencil support: no
+17:24:58:    - Wrap stencil values: no
+17:24:58:  * Hardware vertex / index buffers: no
+17:24:58:  * Vertex programs: no
+17:24:58:  * Fragment programs: no
+17:24:58:  * Geometry programs: no
+17:24:58:  * Supported Shader Profiles:
+17:24:58:  * Texture Compression: no
+17:24:58:  * Scissor Rectangle: yes
+17:24:58:  * Hardware Occlusion Query: no
+17:24:58:  * User clip planes: yes
+17:24:58:  * VET_UBYTE4 vertex element type: yes
+17:24:58:  * Infinite far plane projection: yes
+17:24:58:  * Hardware render-to-texture: no
+17:24:58:  * Floating point textures: no
+17:24:58:  * Non-power-of-two textures: no
+17:24:58:  * Volume textures: yes
+17:24:58:  * Multiple Render Targets: 1
+17:24:58:    - With different bit depths: no
+17:24:58:  * Point Sprites: no
+17:24:58:  * Extended point parameters: no
+17:24:58:  * Max Point Size: -1.07374e+008
+17:24:58:  * Vertex texture fetch: no
+17:24:58:  * Render to Vertex Buffer : no
+17:24:58:  * GL 1.5 without VBO workaround: no
+17:24:58:  * Frame Buffer objects: no
+17:24:58:  * Frame Buffer objects (ARB extension): no
+17:24:58:  * Frame Buffer objects (ATI extension): no
+17:24:58:  * PBuffer suppport: no
+17:24:58:  * GL 1.5 without HW-occlusion workaround: no
+17:24:58: Registering ResourceManager for type Texture
+17:24:58: ResourceBackgroundQueue - threading disabled
+17:24:58: Particle Renderer Type 'billboard' registered
+17:24:58: SceneManagerFactory for type 'BspSceneManager' registered.
+17:24:58: Registering ResourceManager for type BspLevel
+17:24:58: SceneManagerFactory for type 'PCZSceneManager' registered.
+17:24:58: MovableObjectFactory for type 'PCZLight' registered.
+17:24:58: PCZone Factory Type 'ZoneType_Octree' registered
+17:24:58: PCZone Factory Type 'ZoneType_Terrain' registered
+17:24:58: SceneManagerFactory for type 'OctreeSceneManager' registered.
+17:24:58: SceneManagerFactory for type 'TerrainSceneManager' registered.
+17:24:58: Parsing scripts for resource group Autodetect
+17:24:58: Finished parsing scripts for resource group Autodetect
+17:24:58: Parsing scripts for resource group General
+17:24:58: Parsing script arena.material
+17:24:58: Parsing script bare_tall_tree.material
+17:24:58: Parsing script bare_tree.material
+17:24:58: Parsing script box_car.material
+17:24:58: Parsing script button.material
+17:24:58: Parsing script co2_tank.material
+17:24:58: Parsing script controls.material
+17:24:58: Parsing script crescent.material
+17:24:58: Parsing script drawbridge.material
+17:24:58: Parsing script Example-Water.material
+17:24:58: Parsing script fire_ball.material
+17:24:58: Parsing script glow.material
+17:24:58: Parsing script goal.material
+17:24:58: Parsing script grass.material
+17:24:58: Parsing script ground_attack.material
+17:24:59: Parsing script industrial.material
+17:24:59: Parsing script log.material
+17:24:59: Parsing script munny.material
+17:24:59: Parsing script munny_body_flesh.material
+17:24:59: Parsing script munny_flesh.material
+17:24:59: Parsing script munny_tuxedo.material
+17:24:59: Parsing script mushroom_tree.material
+17:24:59: Parsing script nature_dark.material
+17:24:59: Parsing script nature_light.material
+17:24:59: Parsing script pipe.material
+17:24:59: Parsing script pipe_1.material
+17:24:59: Parsing script pipe_2.material
+17:24:59: Parsing script portal.material
+17:24:59: Parsing script sign.material
+17:24:59: Parsing script sign_fire.material
+17:24:59: Parsing script sign_ground.material
+17:24:59: Parsing script sign_wind.material
+17:24:59: Parsing script spikes.material
+17:24:59: Parsing script start.material
+17:24:59: Parsing script trans.material
+17:24:59: Parsing script weapon_club.material
+17:24:59: Parsing script weapon_pipe.material
+17:24:59: Parsing script weapon_wrench.material
+17:24:59: Finished parsing scripts for resource group General
+17:24:59: Parsing scripts for resource group Internal
+17:24:59: Finished parsing scripts for resource group Internal
