@@ -1,0 +1,248 @@
+17:25:08: Creating resource group General
+17:25:08: Creating resource group Internal
+17:25:08: Creating resource group Autodetect
+17:25:08: SceneManagerFactory for type 'DefaultSceneManager' registered.
+17:25:08: Registering ResourceManager for type Material
+17:25:08: Registering ResourceManager for type Mesh
+17:25:08: Registering ResourceManager for type Skeleton
+17:25:08: MovableObjectFactory for type 'ParticleSystem' registered.
+17:25:08: OverlayElementFactory for type Panel registered.
+17:25:08: OverlayElementFactory for type BorderPanel registered.
+17:25:08: OverlayElementFactory for type TextArea registered.
+17:25:08: Registering ResourceManager for type Font
+17:25:08: ArchiveFactory for archive type FileSystem registered.
+17:25:08: ArchiveFactory for archive type Zip registered.
+17:25:08: FreeImage version: 3.10.0
+17:25:08: This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
+17:25:08: Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,cut,xbm,xpm,gif,hdr,g3,sgi,exr,j2k,j2c,jp2
+17:25:08: DDS codec registering
+17:25:08: Registering ResourceManager for type HighLevelGpuProgram
+17:25:08: Registering ResourceManager for type Compositor
+17:25:08: MovableObjectFactory for type 'Entity' registered.
+17:25:08: MovableObjectFactory for type 'Light' registered.
+17:25:08: MovableObjectFactory for type 'BillboardSet' registered.
+17:25:08: MovableObjectFactory for type 'ManualObject' registered.
+17:25:08: MovableObjectFactory for type 'BillboardChain' registered.
+17:25:08: MovableObjectFactory for type 'RibbonTrail' registered.
+17:25:08: Loading library .\RenderSystem_Direct3D9
+17:25:09: Installing plugin: D3D9 RenderSystem
+17:25:09: D3D9 : Direct3D9 Rendering Subsystem created.
+17:25:09: D3D9: Driver Detection Starts
+17:25:09: D3D9: Driver Detection Ends
+17:25:09: Plugin successfully installed
+17:25:09: Loading library .\RenderSystem_GL
+17:25:09: Installing plugin: GL RenderSystem
+17:25:09: OpenGL Rendering Subsystem created.
+17:25:09: Plugin successfully installed
+17:25:09: Loading library .\Plugin_ParticleFX
+17:25:09: Installing plugin: ParticleFX
+17:25:09: Particle Emitter Type 'Point' registered
+17:25:09: Particle Emitter Type 'Box' registered
+17:25:09: Particle Emitter Type 'Ellipsoid' registered
+17:25:09: Particle Emitter Type 'Cylinder' registered
+17:25:09: Particle Emitter Type 'Ring' registered
+17:25:09: Particle Emitter Type 'HollowEllipsoid' registered
+17:25:09: Particle Affector Type 'LinearForce' registered
+17:25:09: Particle Affector Type 'ColourFader' registered
+17:25:09: Particle Affector Type 'ColourFader2' registered
+17:25:09: Particle Affector Type 'ColourImage' registered
+17:25:09: Particle Affector Type 'ColourInterpolator' registered
+17:25:09: Particle Affector Type 'Scaler' registered
+17:25:09: Particle Affector Type 'Rotator' registered
+17:25:09: Particle Affector Type 'DirectionRandomiser' registered
+17:25:09: Particle Affector Type 'DeflectorPlane' registered
+17:25:09: Plugin successfully installed
+17:25:09: Loading library .\Plugin_BSPSceneManager
+17:25:09: Installing plugin: BSP Scene Manager
+17:25:09: Plugin successfully installed
+17:25:09: Loading library .\Plugin_CgProgramManager
+17:25:09: Installing plugin: Cg Program Manager
+17:25:09: Plugin successfully installed
+17:25:09: Loading library .\Plugin_PCZSceneManager.dll
+17:25:09: Installing plugin: Portal Connected Zone Scene Manager
+17:25:09: PCZone Factory Type 'ZoneType_Default' registered
+17:25:09: Plugin successfully installed
+17:25:09: Loading library .\Plugin_OctreeZone.dll
+17:25:09: Installing plugin: Octree Zone Factory
+17:25:09: Plugin successfully installed
+17:25:09: Loading library .\Plugin_OctreeSceneManager
+17:25:09: Installing plugin: Octree & Terrain Scene Manager
+17:25:09: Plugin successfully installed
+17:25:09: *-*-* OGRE Initialising
+17:25:09: *-*-* Version 1.6.0 (Shoggoth)
+17:25:09: Added resource location '../../assets' of type 'FileSystem' to resource group 'General'
+17:25:09: D3D9 : RenderSystem Option: Allow NVPerfHUD = No
+17:25:09: D3D9 : RenderSystem Option: Anti aliasing = None
+17:25:09: D3D9 : RenderSystem Option: Floating-point mode = Fastest
+17:25:09: D3D9 : RenderSystem Option: Full Screen = Yes
+17:25:09: D3D9 : RenderSystem Option: Rendering Device = NVIDIA GeForce 7800 GT
+17:25:09: D3D9 : RenderSystem Option: VSync = No
+17:25:09: D3D9 : RenderSystem Option: Video Mode = 800 x 600 @ 32-bit colour
+17:25:09: D3D9 : RenderSystem Option: sRGB Gamma Conversion = No
+17:25:09: CPU Identifier & Features
+17:25:09: -------------------------
+17:25:09:  *   CPU ID: GenuineIntel: Intel(R) Core(TM)2 Duo CPU     T9400  @ 2.53GHz
+17:25:09:  *      SSE: yes
+17:25:09:  *     SSE2: yes
+17:25:09:  *     SSE3: yes
+17:25:09:  *      MMX: yes
+17:25:09:  *   MMXEXT: yes
+17:25:09:  *    3DNOW: no
+17:25:09:  * 3DNOWEXT: no
+17:25:09:  *     CMOV: yes
+17:25:09:  *      TSC: yes
+17:25:09:  *      FPU: yes
+17:25:09:  *      PRO: yes
+17:25:09:  *       HT: no
+17:25:09: -------------------------
+17:25:09: *** Starting Win32GL Subsystem ***
+17:25:09: GLRenderSystem::_createRenderWindow "Choreo Power", 1024x768 fullscreen  miscParams: FSAA=0 colourDepth=32 displayFrequency=1 gamma=false vsync=false 
+17:25:09: Created Win32Window 'Choreo Power' : 1024x768, 32bpp
+17:25:09: GL_VERSION = 1.1.0
+17:25:09: GL_VENDOR = Microsoft Corporation
+17:25:09: GL_RENDERER = GDI Generic
+17:25:09: GL_EXTENSIONS = GL_WIN_swap_hint GL_EXT_bgra GL_EXT_paletted_texture
+17:25:09: ***************************
+17:25:09: *** GL Renderer Started ***
+17:25:09: ***************************
+17:25:10: Registering ResourceManager for type GpuProgram
+17:25:10: GL: Using framebuffer copy for rendering to textures (worst)
+17:25:10: GL: Warning: RenderTexture size is restricted to size of framebuffer. If you are on Linux, consider using GLX instead of SDL.
+17:25:10: RenderSystem capabilities
+17:25:10: -------------------------
+17:25:10: RenderSystem Name: OpenGL Rendering Subsystem
+17:25:10: GPU Vendor: unknown
+17:25:10: Device Name: GDI Generic
+17:25:10: Driver Version: 1.1.0.0
+17:25:10:  * Fixed function pipeline: yes
+17:25:10:  * Hardware generation of mipmaps: no
+17:25:10:  * Texture blending: no
+17:25:10:  * Anisotropic texture filtering: no
+17:25:10:  * Dot product texture operation: no
+17:25:10:  * Cube mapping: no
+17:25:10:  * Hardware stencil buffer: yes
+17:25:10:    - Stencil depth: 8
+17:25:10:    - Two sided stencil support: no
+17:25:10:    - Wrap stencil values: no
+17:25:10:  * Hardware vertex / index buffers: no
+17:25:10:  * Vertex programs: no
+17:25:10:  * Fragment programs: no
+17:25:10:  * Geometry programs: no
+17:25:10:  * Supported Shader Profiles:
+17:25:10:  * Texture Compression: no
+17:25:10:  * Scissor Rectangle: yes
+17:25:10:  * Hardware Occlusion Query: no
+17:25:10:  * User clip planes: yes
+17:25:10:  * VET_UBYTE4 vertex element type: yes
+17:25:10:  * Infinite far plane projection: yes
+17:25:10:  * Hardware render-to-texture: no
+17:25:10:  * Floating point textures: no
+17:25:10:  * Non-power-of-two textures: no
+17:25:10:  * Volume textures: yes
+17:25:10:  * Multiple Render Targets: 1
+17:25:10:    - With different bit depths: no
+17:25:10:  * Point Sprites: no
+17:25:10:  * Extended point parameters: no
+17:25:10:  * Max Point Size: 4.08726e+036
+17:25:10:  * Vertex texture fetch: no
+17:25:10:  * Render to Vertex Buffer : no
+17:25:10:  * GL 1.5 without VBO workaround: no
+17:25:10:  * Frame Buffer objects: no
+17:25:10:  * Frame Buffer objects (ARB extension): no
+17:25:10:  * Frame Buffer objects (ATI extension): no
+17:25:10:  * PBuffer suppport: no
+17:25:10:  * GL 1.5 without HW-occlusion workaround: no
+17:25:10: Registering ResourceManager for type Texture
+17:25:10: ResourceBackgroundQueue - threading disabled
+17:25:10: Particle Renderer Type 'billboard' registered
+17:25:10: SceneManagerFactory for type 'BspSceneManager' registered.
+17:25:10: Registering ResourceManager for type BspLevel
+17:25:10: SceneManagerFactory for type 'PCZSceneManager' registered.
+17:25:10: MovableObjectFactory for type 'PCZLight' registered.
+17:25:10: PCZone Factory Type 'ZoneType_Octree' registered
+17:25:10: PCZone Factory Type 'ZoneType_Terrain' registered
+17:25:10: SceneManagerFactory for type 'OctreeSceneManager' registered.
+17:25:10: SceneManagerFactory for type 'TerrainSceneManager' registered.
+17:25:10: Parsing scripts for resource group Autodetect
+17:25:10: Finished parsing scripts for resource group Autodetect
+17:25:10: Parsing scripts for resource group General
+17:25:10: Parsing script arena.material
+17:25:10: Parsing script bare_tall_tree.material
+17:25:10: Parsing script bare_tree.material
+17:25:10: Parsing script box_car.material
+17:25:10: Parsing script button.material
+17:25:10: Parsing script co2_tank.material
+17:25:10: Parsing script controls.material
+17:25:10: Parsing script crescent.material
+17:25:10: Parsing script drawbridge.material
+17:25:10: Parsing script Example-Water.material
+17:25:10: Parsing script fire_ball.material
+17:25:10: Parsing script glow.material
+17:25:10: Parsing script goal.material
+17:25:10: Parsing script grass.material
+17:25:10: Parsing script ground_attack.material
+17:25:10: Parsing script industrial.material
+17:25:10: Parsing script log.material
+17:25:10: Parsing script munny.material
+17:25:10: Parsing script munny_body_flesh.material
+17:25:10: Parsing script munny_flesh.material
+17:25:10: Parsing script munny_tuxedo.material
+17:25:10: Parsing script mushroom_tree.material
+17:25:10: Parsing script nature_dark.material
+17:25:10: Parsing script nature_light.material
+17:25:10: Parsing script pipe.material
+17:25:10: Parsing script pipe_1.material
+17:25:10: Parsing script pipe_2.material
+17:25:10: Parsing script portal.material
+17:25:10: Parsing script sign.material
+17:25:10: Parsing script sign_fire.material
+17:25:10: Parsing script sign_ground.material
+17:25:10: Parsing script sign_wind.material
+17:25:10: Parsing script spikes.material
+17:25:10: Parsing script start.material
+17:25:10: Parsing script trans.material
+17:25:10: Parsing script weapon_club.material
+17:25:10: Parsing script weapon_pipe.material
+17:25:10: Parsing script weapon_wrench.material
+17:25:10: Finished parsing scripts for resource group General
+17:25:10: Parsing scripts for resource group Internal
+17:25:10: Finished parsing scripts for resource group Internal
+17:25:10: Mesh: Loading ../assets/munny.mesh.
+17:25:10: Skeleton: Loading munny.skeleton
+17:25:10: Texture: munny_face_flesh.jpg: Loading 1 faces(PF_R8G8B8,256x256x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,256x256x1.
+17:25:10: Texture: munny_body_flesh.jpg: Loading 1 faces(PF_R8G8B8,256x256x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,256x256x1.
+17:25:10: Mesh: Loading ../assets/weapon_club.mesh.
+17:25:10: Texture: pipe_texture.jpg: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+17:25:10: Mesh: Loading ../assets/munny2.mesh.
+17:25:10: Skeleton: Loading munny2.skeleton
+17:25:10: Texture: munny_face_tuxedo.jpg: Loading 1 faces(PF_R8G8B8,256x256x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,256x256x1.
+17:25:10: Texture: munny_body_tuxedo.jpg: Loading 1 faces(PF_R8G8B8,256x256x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,256x256x1.
+17:25:10: Mesh: Loading ../assets/weapon_wrench.mesh.
+17:25:10: Texture: wrench_texture.jpg: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+17:25:10: Mesh: Loading ../assets/arena.mesh.
+17:25:10: Texture: columns.jpg: Loading 1 faces(PF_R8G8B8,256x256x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,256x256x1.
+17:25:10: Texture: stone_texture_1.jpg: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+17:25:10: Texture: cracked_mud.jpg: Loading 1 faces(PF_R8G8B8,128x128x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+17:25:10: Texture: lava.jpg: Loading 1 faces(PF_R8G8B8,256x256x1) with 5 generated mipmaps from Image. Internal format is PF_X8R8G8B8,256x256x1.
+17:25:10: Mesh: Loading ../assets/high_def_cube.mesh.
+17:25:10: Can't assign material lambert1 to SubEntity of ColumnColliderN51629472 because this Material does not exist. Have you forgotten to define it in a .material script?
+17:25:10: Can't assign material lambert1 to SubEntity of ColumnColliderNW51580464 because this Material does not exist. Have you forgotten to define it in a .material script?
+17:25:10: Can't assign material lambert1 to SubEntity of ColumnColliderNE51580640 because this Material does not exist. Have you forgotten to define it in a .material script?
+17:25:10: Can't assign material lambert1 to SubEntity of ColumnColliderW11058848 because this Material does not exist. Have you forgotten to define it in a .material script?
+17:25:10: Can't assign material lambert1 to SubEntity of ColumnColliderE51629440 because this Material does not exist. Have you forgotten to define it in a .material script?
+17:25:10: Can't assign material lambert1 to SubEntity of ColumnColliderSW51580240 because this Material does not exist. Have you forgotten to define it in a .material script?
+17:25:10: Can't assign material lambert1 to SubEntity of ColumnColliderSE51847160 because this Material does not exist. Have you forgotten to define it in a .material script?
+17:25:10: Can't assign material lambert1 to SubEntity of ColumnColliderS51593016 because this Material does not exist. Have you forgotten to define it in a .material script?
+17:25:10: Can't assign material lambert1 to SubEntity of FloorCollider51596768 because this Material does not exist. Have you forgotten to define it in a .material script?
+17:25:10: Can't assign material lambert1 to SubEntity of WallCollider51654024 because this Material does not exist. Have you forgotten to define it in a .material script?
+17:25:10: Can't assign material lambert1 to SubEntity of allCollider51658064 because this Material does not exist. Have you forgotten to define it in a .material script?
+17:25:10: Can't assign material lambert1 to SubEntity of llCollider51662272 because this Material does not exist. Have you forgotten to define it in a .material script?
+17:25:10: Can't assign material lambert1 to SubEntity of lCollider51666312 because this Material does not exist. Have you forgotten to define it in a .material script?
+17:25:10: Can't assign material lambert1 to SubEntity of Collider51563960 because this Material does not exist. Have you forgotten to define it in a .material script?
+17:25:10: Can't assign material lambert1 to SubEntity of ollider51568032 because this Material does not exist. Have you forgotten to define it in a .material script?
+17:25:10: Can't assign material lambert1 to SubEntity of llider51571832 because this Material does not exist. Have you forgotten to define it in a .material script?
+17:25:10: Can't assign material lambert1 to SubEntity of lider51575632 because this Material does not exist. Have you forgotten to define it in a .material script?
+17:25:10: Can't assign material lambert1 to SubEntity of ider51640872 because this Material does not exist. Have you forgotten to define it in a .material script?
+17:25:10: Can't assign material lambert1 to SubEntity of der51644672 because this Material does not exist. Have you forgotten to define it in a .material script?
+17:25:10: Can't assign material lambert1 to SubEntity of er51646456 because this Material does not exist. Have you forgotten to define it in a .material script?
+17:25:10: Can't assign material lambert1 to SubEntity of r51672552 because this Material does not exist. Have you forgotten to define it in a .material script?
