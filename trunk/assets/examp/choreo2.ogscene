@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PROJECT>
+  <SCENEMANAGER value="OctreeSceneManager"></SCENEMANAGER>
+  <ETLDIR value="ETL"></ETLDIR>
+  <HYDRAXDIR value="Hydrax"></HYDRAXDIR>
+  <CAELUMDIR value="Caelum"></CAELUMDIR>
+  <PAGEDGEOMETRYDIR value="PagedGeometry"></PAGEDGEOMETRYDIR>
+  <MODELDIRECTORIES>
+    <DIRECTORY type="FileSystem" value="..\"></DIRECTORY>
+  </MODELDIRECTORIES>
+  <MATERIALDIRECTORIES>
+    <DIRECTORY type="FileSystem" value="..\"></DIRECTORY>
+  </MATERIALDIRECTORIES>
+  <CAMERAPOSITIONS count="3">
+    <OPTION id="0" position="-6.66053 27.8695 -0.78415" orientation="0.72683 -0.686771 0.00669063 0.00628906"></OPTION>
+    <OPTION id="1" position="-4.58446 8.33867 14.1392" orientation="0.995886 -0.0893501 0.0156661 0.00138176"></OPTION>
+    <OPTION id="2" position="22.6479 5.40996 -2.84222" orientation="0.702114 -0.00693213 0.712014 0.00699296"></OPTION>
+    <OPTION id="3" position="1922.75 168.645 407.716" orientation="0.881721 -0.0298093 -0.470701 -0.0152032"></OPTION>
+  </CAMERAPOSITIONS>
+</PROJECT>
+<OGITORSCENE>
+  <OBJECT type="OctreeSceneManager" ambient="1 1 1 1" configfile="" fogcolour="1 1 1 1" fogdensity="0" fogend="0" fogmode="None" fogstart="0" name="SceneManager" scenemanagertype="OctreeSceneManager" skyboxactive="false" skyboxdistance="5000" skyboxmaterial="">  </OBJECT>
+
+  <OBJECT type="Viewport Object" parentnode="SceneManager" colour="0 0 0" name="Viewport">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node80" orientation="0.707107 0 0 0.707107" position="-901.043 131.248 -32.0971" scale="5.13039 8.16645 5.13039">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node9" orientation="0.707107 0 0 0.707107" position="606.299 123.014 -12.6123" scale="19.5234 9.11217 9.11619">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node11" orientation="0.707107 0 0 0.707107" position="572.841 145.826 -8.50357" scale="28.6783 23.596 24.1791">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node27" orientation="1 0 0 0" position="401.112 103.855 -6.68333" scale="10.9494 5.41231 7.07638">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node4" orientation="0.707107 0 0 0.707107" position="644.158 112.718 -12.6123" scale="15.4703 9.11217 9.11619">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node62" orientation="1 0 0 0" position="-1130.01 43.5722 -12.3722" scale="16.0078 16.0078 9.18279">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node22" orientation="1 0 0 0" position="63.4006 -23.7296 -16.4572" scale="2972 26 173.42">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node47" orientation="0.707107 0 0 0.707107" position="809.043 245.669 8.03246" scale="17.0698 35.2229 13.9534">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node65" orientation="1 0 0 0" position="-1222.35 7.00422 13.2614" scale="5.78218 4 4">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node96" orientation="0.707107 0 0 0.707107" position="-681.746 27.7696 1.4574" scale="15.3332 5.50658 6.5682">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node104" orientation="0.707107 0 0 0.707107" position="-681.872 28.5259 27.4332" scale="15.3332 5.50658 6.5682">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node28" orientation="1 0 0 0" position="383.144 89.8242 -27.3637" scale="10.9494 2.83184 5.8529">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node75" orientation="1 0 0 0" position="-998.74 110.593 19.5897" scale="41.0075 17.611 26.6593">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node87" orientation="0.707107 0 0 0.707107" position="-764.827 27.7696 14.3783" scale="15.3332 5.50658 6.5682">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node101" orientation="0.707107 0 0 0.707107" position="-687.656 27.7696 14.2671" scale="15.3332 5.50658 6.5682">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node110" orientation="1 0 0 0" position="-43.2494 125.677 -30.7766" scale="20.2788 15.613 27.3552">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node7" orientation="0.707107 0 0 0.707107" position="648.884 83.6665 15.8536" scale="3.77376 15.5987 15.9842">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node82" orientation="0.707107 0.707107 0 0" position="-1013.88 131.722 12.7026" scale="3.59 3.59 3.59">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node17" orientation="1 0 0 0" position="623.798 196.033 -33.3085" scale="2.91458 2.91458 2.91458">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node25" orientation="1 0 0 0" position="334.534 97.7724 -14.4355" scale="10.9494 4.25476 3.82384">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node2" orientation="1 0 0 0" position="-454.275 2.81696 7.21623" scale="1.48496 1.48496 1.48496">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node60" orientation="0.707078 0.707081 -0.0066849 0.00560932" position="792.804 88.2522 -34.4755" scale="3.5921 3.5921 3.5921">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node89" orientation="0.707107 0 0 0.707107" position="-770.166 27.7696 1.5996" scale="15.3332 5.50658 6.5682">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node93" orientation="0.707107 0 0 0.707107" position="-670.577 27.7696 1.52118" scale="15.3332 5.50658 6.5682">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node20" orientation="1 0 0 0" position="828.653 158.963 -51.4817" scale="5000 400 1">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node109" orientation="1 0 0 0" position="-329.63 77.6959 -0.232109" scale="17.3716 34.7511 18.6962">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node94" orientation="0.707107 0 0 0.707107" position="-681.746 23.6501 1.64957" scale="15.3332 5.50658 6.5682">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node57" orientation="1 0 0 0" position="1701.67 193.384 4.30122" scale="97.9056 18.3068 89.04">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node72" orientation="0.707107 0 0 0.707107" position="-1202.27 30.0956 -28.4592" scale="10.8337 5.50658 6.5682">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node68" orientation="0.707107 0 0.707107 0" position="2345.14 126.142 9.66889" scale="24.9232 24.9232 24.9232">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node77" orientation="1 0 0 0" position="-897.344 131.8 -31.9002" scale="4.52224 17.611 26.6593">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node81" orientation="0.707107 0 0 0.707107" position="-896.705 131.248 19.6891" scale="5.13039 8.16645 5.13039">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node10" orientation="1 0 0 0" position="823.797 158.963 -47.7049" scale="5000 400 1">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node112" orientation="1 0 0 0" position="451.195 32.0964 5.73474" scale="705.386 84.0778 100">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node5" orientation="0.707107 0 0 0.707107" position="616.994 95.3324 15.8536" scale="8.46973 15.5987 15.9842">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node63" orientation="1 0 0 0" position="1733.47 203.352 4.85833" scale="4.77068 4.77068 4.77068">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node15" orientation="1 0 0 0" position="644.1 151.618 -12.4329" scale="2.91458 2.91458 2.91458">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node23" orientation="1 0 0 0" position="-126.712 125.677 5.73474" scale="20.2788 15.613 100">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node66" orientation="0.707107 0 0 0.707107" position="2328.19 130.053 15.4583" scale="25.3724 35.2229 13.9534">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node91" orientation="0.707107 0 0 0.707107" position="-759.233 27.7696 26.8555" scale="15.3332 5.50658 6.5682">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node107" orientation="1 0 0 0" position="-584.352 2.81696 11.7103" scale="1.48496 1.48496 1.48496">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node29" orientation="1 0 0 0" position="1156.49 32.0964 5.73474" scale="705.386 84.0778 100">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node55" orientation="1 0 0 0" position="1916.31 30.9686 7.11048" scale="816.514 87.3582 96.98">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node74" orientation="0.707107 0 0 0.707107" position="-1202.21 16.314 13.0358" scale="5.32723 5.50658 6.5682">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node84" orientation="1 0 0 0" position="-763.956 2.60618 11.7103" scale="1.48496 1.48496 1.48496">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node100" orientation="0.707107 0 0 0.707107" position="-676.055 27.7696 13.7745" scale="15.3332 5.50658 6.5682">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node111" orientation="1 0 0 0" position="36.1097 125.677 25.6822" scale="20.2788 15.613 27.3552">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node8" orientation="0.707107 0 0 0.707107" position="625.021 101.854 -12.9098" scale="11.0477 9.11217 9.11619">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node83" orientation="0.707107 0.707107 0 0" position="-981.314 131.767 -41.4416" scale="3.59 3.59 3.59">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node16" orientation="0.707107 0 0 0.707107" position="-840.987 41.2538 4.32116" scale="17.0698 35.2229 13.9534">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node26" orientation="1 0 0 0" position="363.577 97.7266 15.8085" scale="10.9494 4.25476 3.82384">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node114" orientation="1 0 0 0" position="360.221 108.957 -15.2188" scale="8.00918 9.47312 10.8092">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node3" orientation="1 0 0 0" position="-333.293 2.81696 7.21623" scale="1.48496 1.48496 1.48496">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node92" orientation="0.707107 0 0 0.707107" position="-770.166 27.7696 26.5313" scale="15.3332 5.50658 6.5682">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node21" orientation="1 0 0 0" position="572.593 216.911 -9.80382" scale="2.91458 2.91458 2.91458">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node108" orientation="1 0 0 0" position="-460.933 60.4899 -0.232109" scale="14.3556 28.1139 18.6962">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node64" orientation="1 0 0 0" position="-1222.31 7.00422 21.436" scale="5.78218 4 4">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node34" orientation="1 0 0 0" position="1176.67 193.384 4.30122" scale="214.512 18.3068 89.04">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node56" orientation="1 0 0 -7.45058e-009" position="1232.41 211.704 11.7235" scale="55.5141 9.11217 9.11619">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node105" orientation="0.707107 0 0 0.707107" position="-668.191 27.7696 26.6527" scale="15.3332 5.50658 6.5682">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node98" orientation="0.707107 0 0 0.707107" position="-664.231 27.7696 14.6215" scale="15.3332 5.50658 6.5682">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node31" orientation="1 0 0 0" position="779.243 197.657 3" scale="67.8622 19.119 89.04">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node76" orientation="1 0 0 0" position="-998.74 110.593 -32.0324" scale="41.0075 17.611 26.6593">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node86" orientation="0.707107 0 0 0.707107" position="-753.845 27.7696 14.3783" scale="15.3332 5.50658 6.5682">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node13" orientation="0.707107 0 0 0.707107" position="624.164 135.357 -32.7496" scale="24.4105 9.11217 9.11619">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node6" orientation="1 0 0 0" position="-1165.2 -3.44182 0" scale="515.58 12.74 100">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node14" orientation="1 0 0 0" position="606.551 171.573 -12.4329" scale="2.91458 2.91458 2.91458">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node24" orientation="1 0 0 0" position="286.904 108.926 -15.2188" scale="8.00918 9.47312 10.8092">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node79" orientation="1 0 0 0" position="-893.07 131.8 19.59" scale="4.52224 17.611 26.6593">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node1" orientation="1 0 0 0" position="-861.372 -3.45926 0" scale="92.82 12.74 100">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node67" orientation="1 0 0 0" position="2376.04 30.9686 6.86768" scale="89.6841 87.3582 96.98">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node88" orientation="0.707107 0 0 0.707107" position="-776.789 27.7696 14.2056" scale="15.3332 5.50658 6.5682">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node90" orientation="0.707107 0 0 0.707107" position="-759.045 27.7696 1.4574" scale="15.3332 5.50658 6.5682">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node106" orientation="1 0 0 0" position="-583.655 36.5428 7.39075" scale="18.6962 18.6962 18.6962">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node95" orientation="0.707107 0 0 0.707107" position="-681.872 28.5259 1.6908" scale="15.3332 5.50658 6.5682">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node54" orientation="0.707107 0.707107 0 0" position="1084.13 216.13 -18.1762" scale="3.95 3.95 3.95">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node73" orientation="0.707107 0 0 0.707107" position="-1202.21 20.8678 -7.16372" scale="7.14054 5.50658 6.5682">  </OBJECT>
+
+  <OBJECT type="Node Object" parentnode="SceneManager" name="Node85" orientation="1 0 0 0" position="-674.6 2.75308 11.7103" scale="1.48496 1.48496 1.48496">  </OBJECT>
+
+  <OBJECT type="Light Object" parentnode="SceneManager" attenuation="1e+008 0.2 0 0" diffuse="1 1 1" direction="0 0 1" lighttype="LT_POINT" name="Light60" position="1676.88 263.289 96.7163" power="1" range="30 40 1" shadows="true" kill="false" specular="0 0 0">  </OBJECT>
+
+  <OBJECT type="Light Object" parentnode="SceneManager" attenuation="1e+007 0.2 0 0" diffuse="1 1 1" direction="0 0 1" lighttype="LT_POINT" name="Light4" position="-1551.14 99.7512 -2.77612" power="1" range="30 40 1" shadows="true" kill="false" specular="0 0 0">  </OBJECT>
+
+  <OBJECT type="Light Object" parentnode="SceneManager" attenuation="1e+009 0.2 0 0" diffuse="1 1 1" direction="0 0 1" lighttype="LT_POINT" name="Light5" position="271.854 159.841 -12.8149" power="1" range="30 40 1" shadows="true" kill="false" specular="0 0 0">  </OBJECT>
+
+  <OBJECT type="Light Object" parentnode="SceneManager" attenuation="1e+008 0.2 0 0" diffuse="1 1 1" direction="0 0 1" lighttype="LT_POINT" name="Light54" position="2653.39 182.769 42.0766" power="1" range="30 40 1" shadows="true" kill="false" specular="0 0 0">  </OBJECT>
+
+  <OBJECT type="Light Object" parentnode="SceneManager" attenuation="1e+008 0.2 0 0" diffuse="1 1 1" direction="0 0 1" lighttype="LT_POINT" name="Light2" position="967.095 200.72 2.27432" power="1" range="30 40 1" shadows="true" kill="false" specular="0 0 0">  </OBJECT>
+
+  <OBJECT type="Light Object" parentnode="SceneManager" attenuation="1e+008 0.2 0 0" diffuse="1 1 1" direction="0 0 1" lighttype="LT_POINT" name="Light36" position="1461.57 149.354 -1.4832" power="1" range="30 40 1" shadows="true" kill="false" specular="0 0 0">  </OBJECT>
+
+  <OBJECT type="Light Object" parentnode="SceneManager" attenuation="1e+008 0.2 0 0" diffuse="1 1 1" direction="0 0 1" lighttype="LT_POINT" name="Light3" position="1161.06 189.028 -156.559" power="1" range="30 40 1" shadows="true" kill="false" specular="0 0 0">  </OBJECT>
+
+  <OBJECT type="Light Object" parentnode="SceneManager" attenuation="1e+008 0.2 0 0" diffuse="1 1 1" direction="0 0 1" lighttype="LT_POINT" name="Light46" position="2029.53 127.631 42.0766" power="1" range="30 40 1" shadows="true" kill="false" specular="0 0 0">  </OBJECT>
+
+  <OBJECT type="Light Object" parentnode="SceneManager" attenuation="1e+008 0.2 0 0" diffuse="1 1 1" direction="0 0 1" lighttype="LT_POINT" name="Light51" position="2478.57 128.003 42.0766" power="1" range="30 40 1" shadows="true" kill="false" specular="0 0 0">  </OBJECT>
+
+  <OBJECT type="Light Object" parentnode="SceneManager" attenuation="1e+008 0.2 0 0" diffuse="1 1 1" direction="0 0 1" lighttype="LT_POINT" name="Light59" position="1676.88 263.289 -1.36342" power="1" range="30 40 1" shadows="true" kill="false" specular="0 0 0">  </OBJECT>
+
+  <OBJECT type="Light Object" parentnode="SceneManager" attenuation="10000 0.2 0 0" diffuse="1 1 1" direction="0 -1 0" lighttype="LT_POINT" name="Light8" position="-880.999 285.237 0.585614" power="1" range="30 40 1" shadows="true" kill="false" specular="1 1 1">  </OBJECT>
+
+  <OBJECT type="Light Object" parentnode="SceneManager" attenuation="1e+009 0.2 0 0" diffuse="1 1 1" direction="0 0 1" lighttype="LT_POINT" name="Light1" position="607.533 257.001 312.347" power="1" range="30 40 1" shadows="true" kill="false" specular="0 0 0">  </OBJECT>
+
+  <OBJECT type="Light Object" parentnode="SceneManager" attenuation="1e+008 0.2 0 0" diffuse="1 1 1" direction="0 0 1" lighttype="LT_POINT" name="Light48" position="1139.51 331.844 -156.559" power="1" range="30 40 1" shadows="true" kill="false" specular="0 0 0">  </OBJECT>
+
+  <OBJECT type="Light Object" parentnode="SceneManager" attenuation="1e+008 0.2 0 0" diffuse="1 1 1" direction="0 0 1" lighttype="LT_POINT" name="Light50" position="2202.02 127.631 42.0766" power="1" range="30 40 1" shadows="true" kill="false" specular="0 0 0">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node60" meshfile="sign.mesh" name="Entity60" shadows="true" kill="false" subentity0.material="sign/sign_" subentity0.visible="true" subentity1.material="sign/sign_" subentity1.visible="true" subentity2.material="sign/sign_" subentity2.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node31" meshfile="cube.mesh" name="Entity31" shadows="true" kill="false" subentity0.material="grass/grassM" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node83" meshfile="sign_fire.mesh" name="Entity83" shadows="true" kill="false" subentity0.material="sign_fire/sign_" subentity0.visible="true" subentity1.material="sign_fire/sign_" subentity1.visible="true" subentity2.material="sign_fire/sign_" subentity2.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node13" meshfile="log.mesh" name="Entity13" shadows="true" kill="false" subentity0.material="log/lambert2" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node65" meshfile="log.mesh" name="Entity65" shadows="true" kill="false" subentity0.material="log/lambert2" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node34" meshfile="cube.mesh" name="Entity34" shadows="true" kill="false" subentity0.material="grass/grassM" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node88" meshfile="log.mesh" name="Entity88" shadows="true" kill="false" subentity0.material="log/lambert2" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node16" meshfile="drawbridge.mesh" name="Entity16" shadows="true" kill="false" subentity0.material="co2_tank/co2M" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node75" meshfile="high_def_cube.mesh" name="Entity75" shadows="true" kill="false" subentity0.material="grass/grassM" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node92" meshfile="log.mesh" name="Entity92" shadows="true" kill="false" subentity0.material="log/lambert2" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node28" meshfile="bare_tall_tree.mesh" name="Entity28" shadows="true" kill="false" subentity0.material="bare_tall_treeM" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node4" meshfile="log.mesh" name="Entity4" shadows="true" kill="false" subentity0.material="log/lambert2" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node68" meshfile="goal.mesh" name="Entity68" shadows="true" kill="false" subentity0.material="goal/goal" subentity0.visible="true" subentity1.material="goal/goal" subentity1.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node47" meshfile="drawbridge.mesh" name="Entity47" shadows="true" kill="false" subentity0.material="co2_tank/co2M" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node95" meshfile="log.mesh" name="Entity95" shadows="true" kill="false" subentity0.material="log/lambert2" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node25" meshfile="bare_tall_tree.mesh" name="Entity25" shadows="true" kill="false" subentity0.material="bare_tall_treeM" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node80" meshfile="button.mesh" name="Entity80" shadows="true" kill="false" subentity0.material="weapon_wrench/pipeM" subentity0.visible="true" subentity1.material="button/buttonM" subentity1.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node98" meshfile="log.mesh" name="Entity98" shadows="true" kill="false" subentity0.material="log/lambert2" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node106" meshfile="mushroom_tree.mesh" name="Entity106" shadows="true" kill="false" subentity0.material="mushroom_tree/treeM" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node56" meshfile="log.mesh" name="Entity56" shadows="true" kill="false" subentity0.material="log/lambert2" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node66" meshfile="drawbridge.mesh" name="Entity66" shadows="true" kill="false" subentity0.material="co2_tank/co2M" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node85" meshfile="spikes.mesh" name="Entity85" shadows="true" kill="true" subentity0.material="spikes/spikes" subentity0.visible="true" subentity1.material="spikes/spikes" subentity1.visible="true" subentity10.material="spikes/spikes" subentity10.visible="true" subentity11.material="spikes/spikes" subentity11.visible="true" subentity12.material="spikes/spikes" subentity12.visible="true" subentity13.material="spikes/spikes" subentity13.visible="true" subentity14.material="spikes/spikes" subentity14.visible="true" subentity15.material="spikes/spikes" subentity15.visible="true" subentity16.material="spikes/spikes" subentity16.visible="true" subentity17.material="spikes/spikes" subentity17.visible="true" subentity18.material="spikes/spikes" subentity18.visible="true" subentity19.material="spikes/spikes" subentity19.visible="true" subentity2.material="spikes/spikes" subentity2.visible="true" subentity20.material="spikes/spikes" subentity20.visible="true" subentity21.material="spikes/spikes" subentity21.visible="true" subentity22.material="spikes/spikes" subentity22.visible="true" subentity23.material="spikes/spikes" subentity23.visible="true" subentity24.material="spikes/spikes" subentity24.visible="true" subentity25.material="spikes/spikes" subentity25.visible="true" subentity26.material="spikes/spikes" subentity26.visible="true" subentity27.material="spikes/spikes" subentity27.visible="true" subentity28.material="spikes/spikes" subentity28.visible="true" subentity29.material="spikes/spikes" subentity29.visible="true" subentity3.material="spikes/spikes" subentity3.visible="true" subentity30.material="spikes/spikes" subentity30.visible="true" subentity31.material="spikes/spikes" subentity31.visible="true" subentity32.material="spikes/spikes" subentity32.visible="true" subentity33.material="spikes/spikes" subentity33.visible="true" subentity34.material="spikes/spikes" subentity34.visible="true" subentity35.material="spikes/spikes" subentity35.visible="true" subentity4.material="spikes/spikes" subentity4.visible="true" subentity5.material="spikes/spikes" subentity5.visible="true" subentity6.material="spikes/spikes" subentity6.visible="true" subentity7.material="spikes/spikes" subentity7.visible="true" subentity8.material="spikes/spikes" subentity8.visible="true" subentity9.material="spikes/spikes" subentity9.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node11" meshfile="log.mesh" name="Entity11" shadows="true" kill="false" subentity0.material="log/lambert2" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node1" meshfile="high_def_cube.mesh" name="Entity1" shadows="true" kill="false" subentity0.material="grass/grassM" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node14" meshfile="button.mesh" name="Entity14" shadows="true" kill="false" subentity0.material="button/buttonM" subentity0.visible="true" subentity1.material="button/buttonM" subentity1.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node77" meshfile="high_def_cube.mesh" name="Entity77" shadows="true" kill="false" subentity0.material="grass/grassM" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node90" meshfile="log.mesh" name="Entity90" shadows="true" kill="false" subentity0.material="log/lambert2" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node26" meshfile="bare_tall_tree.mesh" name="Entity26" shadows="true" kill="false" subentity0.material="bare_tall_treeM" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node6" meshfile="high_def_cube.mesh" name="Entity6" shadows="true" kill="false" subentity0.material="grass/grassM" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node72" meshfile="log.mesh" name="Entity72" shadows="true" kill="false" subentity0.material="log/lambert2" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node105" meshfile="log.mesh" name="Entity105" shadows="true" kill="false" subentity0.material="log/lambert2" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node23" meshfile="high_def_cube.mesh" name="Entity23" shadows="true" kill="false" subentity0.material="grass/grassM" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node63" meshfile="button.mesh" name="Entity63" shadows="true" kill="false" subentity0.material="button/buttonM" subentity0.visible="true" subentity1.material="button/buttonM" subentity1.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node82" meshfile="sign_wind.mesh" name="Entity82" shadows="true" kill="false" subentity0.material="sign_wind/sign_" subentity0.visible="true" subentity1.material="sign_wind/sign_" subentity1.visible="true" subentity2.material="sign_wind/sign_" subentity2.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node108" meshfile="mushroom_tree.mesh" name="Entity108" shadows="true" kill="false" subentity0.material="mushroom_tree/treeM" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node9" meshfile="log.mesh" name="Entity9" shadows="true" kill="false" subentity0.material="log/lambert2" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node54" meshfile="sign_wind.mesh" name="Entity54" shadows="true" kill="false" subentity0.material="sign_wind/sign_" subentity0.visible="true" subentity1.material="sign_wind/sign_" subentity1.visible="true" subentity2.material="sign_wind/sign_" subentity2.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node64" meshfile="log.mesh" name="Entity64" shadows="true" kill="false" subentity0.material="log/lambert2" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node87" meshfile="log.mesh" name="Entity87" shadows="true" kill="false" subentity0.material="log/lambert2" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node17" meshfile="button.mesh" name="Entity17" shadows="true" kill="false" subentity0.material="button/buttonM" subentity0.visible="true" subentity1.material="button/buttonM" subentity1.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node114" meshfile="bare_tree.mesh" name="Entity114" shadows="true" kill="false" subentity0.material="bare_tree/bare_treeM" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node93" meshfile="log.mesh" name="Entity93" shadows="true" kill="false" subentity0.material="log/lambert2" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node3" meshfile="spikes.mesh" name="Entity3" shadows="true" kill="true" subentity0.material="spikes/spikes" subentity0.visible="true" subentity1.material="spikes/spikes" subentity1.visible="true" subentity10.material="spikes/spikes" subentity10.visible="true" subentity11.material="spikes/spikes" subentity11.visible="true" subentity12.material="spikes/spikes" subentity12.visible="true" subentity13.material="spikes/spikes" subentity13.visible="true" subentity14.material="spikes/spikes" subentity14.visible="true" subentity15.material="spikes/spikes" subentity15.visible="true" subentity16.material="spikes/spikes" subentity16.visible="true" subentity17.material="spikes/spikes" subentity17.visible="true" subentity18.material="spikes/spikes" subentity18.visible="true" subentity19.material="spikes/spikes" subentity19.visible="true" subentity2.material="spikes/spikes" subentity2.visible="true" subentity20.material="spikes/spikes" subentity20.visible="true" subentity21.material="spikes/spikes" subentity21.visible="true" subentity22.material="spikes/spikes" subentity22.visible="true" subentity23.material="spikes/spikes" subentity23.visible="true" subentity24.material="spikes/spikes" subentity24.visible="true" subentity25.material="spikes/spikes" subentity25.visible="true" subentity26.material="spikes/spikes" subentity26.visible="true" subentity27.material="spikes/spikes" subentity27.visible="true" subentity28.material="spikes/spikes" subentity28.visible="true" subentity29.material="spikes/spikes" subentity29.visible="true" subentity3.material="spikes/spikes" subentity3.visible="true" subentity30.material="spikes/spikes" subentity30.visible="true" subentity31.material="spikes/spikes" subentity31.visible="true" subentity32.material="spikes/spikes" subentity32.visible="true" subentity33.material="spikes/spikes" subentity33.visible="true" subentity34.material="spikes/spikes" subentity34.visible="true" subentity35.material="spikes/spikes" subentity35.visible="true" subentity4.material="spikes/spikes" subentity4.visible="true" subentity5.material="spikes/spikes" subentity5.visible="true" subentity6.material="spikes/spikes" subentity6.visible="true" subentity7.material="spikes/spikes" subentity7.visible="true" subentity8.material="spikes/spikes" subentity8.visible="true" subentity9.material="spikes/spikes" subentity9.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node111" meshfile="high_def_cube.mesh" name="Entity111" shadows="true" kill="false" subentity0.material="grass/grassM" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node96" meshfile="log.mesh" name="Entity96" shadows="true" kill="false" subentity0.material="log/lambert2" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node100" meshfile="log.mesh" name="Entity100" shadows="true" kill="false" subentity0.material="log/lambert2" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node24" meshfile="bare_tree.mesh" name="Entity24" shadows="true" kill="false" subentity0.material="bare_tree/bare_treeM" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node107" meshfile="spikes.mesh" name="Entity107" shadows="true" kill="true" subentity0.material="spikes/spikes" subentity0.visible="true" subentity1.material="spikes/spikes" subentity1.visible="true" subentity10.material="spikes/spikes" subentity10.visible="true" subentity11.material="spikes/spikes" subentity11.visible="true" subentity12.material="spikes/spikes" subentity12.visible="true" subentity13.material="spikes/spikes" subentity13.visible="true" subentity14.material="spikes/spikes" subentity14.visible="true" subentity15.material="spikes/spikes" subentity15.visible="true" subentity16.material="spikes/spikes" subentity16.visible="true" subentity17.material="spikes/spikes" subentity17.visible="true" subentity18.material="spikes/spikes" subentity18.visible="true" subentity19.material="spikes/spikes" subentity19.visible="true" subentity2.material="spikes/spikes" subentity2.visible="true" subentity20.material="spikes/spikes" subentity20.visible="true" subentity21.material="spikes/spikes" subentity21.visible="true" subentity22.material="spikes/spikes" subentity22.visible="true" subentity23.material="spikes/spikes" subentity23.visible="true" subentity24.material="spikes/spikes" subentity24.visible="true" subentity25.material="spikes/spikes" subentity25.visible="true" subentity26.material="spikes/spikes" subentity26.visible="true" subentity27.material="spikes/spikes" subentity27.visible="true" subentity28.material="spikes/spikes" subentity28.visible="true" subentity29.material="spikes/spikes" subentity29.visible="true" subentity3.material="spikes/spikes" subentity3.visible="true" subentity30.material="spikes/spikes" subentity30.visible="true" subentity31.material="spikes/spikes" subentity31.visible="true" subentity32.material="spikes/spikes" subentity32.visible="true" subentity33.material="spikes/spikes" subentity33.visible="true" subentity34.material="spikes/spikes" subentity34.visible="true" subentity35.material="spikes/spikes" subentity35.visible="true" subentity4.material="spikes/spikes" subentity4.visible="true" subentity5.material="spikes/spikes" subentity5.visible="true" subentity6.material="spikes/spikes" subentity6.visible="true" subentity7.material="spikes/spikes" subentity7.visible="true" subentity8.material="spikes/spikes" subentity8.visible="true" subentity9.material="spikes/spikes" subentity9.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node21" meshfile="button.mesh" name="Entity21" shadows="true" kill="false" subentity0.material="button/buttonM" subentity0.visible="true" subentity1.material="button/buttonM" subentity1.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node57" meshfile="cube.mesh" name="Entity57" shadows="true" kill="false" subentity0.material="grass/grassM" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node84" meshfile="spikes.mesh" name="Entity84" shadows="true" kill="true" subentity0.material="spikes/spikes" subentity0.visible="true" subentity1.material="spikes/spikes" subentity1.visible="true" subentity10.material="spikes/spikes" subentity10.visible="true" subentity11.material="spikes/spikes" subentity11.visible="true" subentity12.material="spikes/spikes" subentity12.visible="true" subentity13.material="spikes/spikes" subentity13.visible="true" subentity14.material="spikes/spikes" subentity14.visible="true" subentity15.material="spikes/spikes" subentity15.visible="true" subentity16.material="spikes/spikes" subentity16.visible="true" subentity17.material="spikes/spikes" subentity17.visible="true" subentity18.material="spikes/spikes" subentity18.visible="true" subentity19.material="spikes/spikes" subentity19.visible="true" subentity2.material="spikes/spikes" subentity2.visible="true" subentity20.material="spikes/spikes" subentity20.visible="true" subentity21.material="spikes/spikes" subentity21.visible="true" subentity22.material="spikes/spikes" subentity22.visible="true" subentity23.material="spikes/spikes" subentity23.visible="true" subentity24.material="spikes/spikes" subentity24.visible="true" subentity25.material="spikes/spikes" subentity25.visible="true" subentity26.material="spikes/spikes" subentity26.visible="true" subentity27.material="spikes/spikes" subentity27.visible="true" subentity28.material="spikes/spikes" subentity28.visible="true" subentity29.material="spikes/spikes" subentity29.visible="true" subentity3.material="spikes/spikes" subentity3.visible="true" subentity30.material="spikes/spikes" subentity30.visible="true" subentity31.material="spikes/spikes" subentity31.visible="true" subentity32.material="spikes/spikes" subentity32.visible="true" subentity33.material="spikes/spikes" subentity33.visible="true" subentity34.material="spikes/spikes" subentity34.visible="true" subentity35.material="spikes/spikes" subentity35.visible="true" subentity4.material="spikes/spikes" subentity4.visible="true" subentity5.material="spikes/spikes" subentity5.visible="true" subentity6.material="spikes/spikes" subentity6.visible="true" subentity7.material="spikes/spikes" subentity7.visible="true" subentity8.material="spikes/spikes" subentity8.visible="true" subentity9.material="spikes/spikes" subentity9.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node79" meshfile="high_def_cube.mesh" name="Entity79" shadows="true" kill="false" subentity0.material="grass/grassM" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node89" meshfile="log.mesh" name="Entity89" shadows="true" kill="false" subentity0.material="log/lambert2" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node15" meshfile="button.mesh" name="Entity15" shadows="true" kill="false" subentity0.material="button/buttonM" subentity0.visible="true" subentity1.material="button/buttonM" subentity1.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node112" meshfile="high_def_cube.mesh" name="Entity112" shadows="true" kill="false" subentity0.material="grass/grassM" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node74" meshfile="log.mesh" name="Entity74" shadows="true" kill="false" subentity0.material="log/lambert2" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node91" meshfile="log.mesh" name="Entity91" shadows="true" kill="false" subentity0.material="log/lambert2" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node29" meshfile="high_def_cube.mesh" name="Entity29" shadows="true" kill="true" subentity0.material="Examples/Water2" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node5" meshfile="log.mesh" name="Entity5" shadows="true" kill="false" subentity0.material="log/lambert2" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node73" meshfile="log.mesh" name="Entity73" shadows="true" kill="false" subentity0.material="log/lambert2" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node94" meshfile="log.mesh" name="Entity94" shadows="true" kill="false" subentity0.material="log/lambert2" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node22" meshfile="high_def_cube.mesh" name="Entity22" shadows="true" kill="false" subentity0.material="weapon_wrench/pipeM" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node62" meshfile="mushroom_tree.mesh" name="Entity62" shadows="true" kill="false" subentity0.material="mushroom_tree/treeM" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node81" meshfile="button.mesh" name="Entity81" shadows="true" kill="false" subentity0.material="weapon_wrench/pipeM" subentity0.visible="true" subentity1.material="button/buttonM" subentity1.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node109" meshfile="mushroom_tree.mesh" name="Entity109" shadows="true" kill="false" subentity0.material="mushroom_tree/treeM" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node8" meshfile="log.mesh" name="Entity8" shadows="true" kill="false" subentity0.material="log/lambert2" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node55" meshfile="high_def_cube.mesh" name="Entity55" shadows="true" kill="false" subentity0.material="grass/grassM" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node67" meshfile="high_def_cube.mesh" name="Entity67" shadows="true" kill="false" subentity0.material="grass/grassM" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node86" meshfile="log.mesh" name="Entity86" shadows="true" kill="false" subentity0.material="log/lambert2" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node10" meshfile="cube.mesh" name="Entity10" shadows="true" kill="true" subentity0.material="Examples/Water1" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node2" meshfile="spikes.mesh" name="Entity2" shadows="true" kill="true" subentity0.material="spikes/spikes" subentity0.visible="true" subentity1.material="spikes/spikes" subentity1.visible="true" subentity10.material="spikes/spikes" subentity10.visible="true" subentity11.material="spikes/spikes" subentity11.visible="true" subentity12.material="spikes/spikes" subentity12.visible="true" subentity13.material="spikes/spikes" subentity13.visible="true" subentity14.material="spikes/spikes" subentity14.visible="true" subentity15.material="spikes/spikes" subentity15.visible="true" subentity16.material="spikes/spikes" subentity16.visible="true" subentity17.material="spikes/spikes" subentity17.visible="true" subentity18.material="spikes/spikes" subentity18.visible="true" subentity19.material="spikes/spikes" subentity19.visible="true" subentity2.material="spikes/spikes" subentity2.visible="true" subentity20.material="spikes/spikes" subentity20.visible="true" subentity21.material="spikes/spikes" subentity21.visible="true" subentity22.material="spikes/spikes" subentity22.visible="true" subentity23.material="spikes/spikes" subentity23.visible="true" subentity24.material="spikes/spikes" subentity24.visible="true" subentity25.material="spikes/spikes" subentity25.visible="true" subentity26.material="spikes/spikes" subentity26.visible="true" subentity27.material="spikes/spikes" subentity27.visible="true" subentity28.material="spikes/spikes" subentity28.visible="true" subentity29.material="spikes/spikes" subentity29.visible="true" subentity3.material="spikes/spikes" subentity3.visible="true" subentity30.material="spikes/spikes" subentity30.visible="true" subentity31.material="spikes/spikes" subentity31.visible="true" subentity32.material="spikes/spikes" subentity32.visible="true" subentity33.material="spikes/spikes" subentity33.visible="true" subentity34.material="spikes/spikes" subentity34.visible="true" subentity35.material="spikes/spikes" subentity35.visible="true" subentity4.material="spikes/spikes" subentity4.visible="true" subentity5.material="spikes/spikes" subentity5.visible="true" subentity6.material="spikes/spikes" subentity6.visible="true" subentity7.material="spikes/spikes" subentity7.visible="true" subentity8.material="spikes/spikes" subentity8.visible="true" subentity9.material="spikes/spikes" subentity9.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node110" meshfile="high_def_cube.mesh" name="Entity110" shadows="true" kill="false" subentity0.material="grass/grassM" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node76" meshfile="high_def_cube.mesh" name="Entity76" shadows="true" kill="false" subentity0.material="grass/grassM" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node101" meshfile="log.mesh" name="Entity101" shadows="true" kill="false" subentity0.material="log/lambert2" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node27" meshfile="bare_tall_tree.mesh" name="Entity27" shadows="true" kill="false" subentity0.material="bare_tall_treeM" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node7" meshfile="log.mesh" name="Entity7" shadows="true" kill="false" subentity0.material="log/lambert2" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node104" meshfile="log.mesh" name="Entity104" shadows="true" kill="false" subentity0.material="log/lambert2" subentity0.visible="true">  </OBJECT>
+
+  <OBJECT type="Entity Object" parentnode="Node20" meshfile="cube.mesh" name="Entity20" shadows="true" kill="false" subentity0.material="Examples/Water1" subentity0.visible="true">  </OBJECT>
+
+</OGITORSCENE>

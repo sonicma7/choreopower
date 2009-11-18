@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PROJECT>
+  <SCENEMANAGER value="TerrainSceneManager"></SCENEMANAGER>
+  <ETLDIR value="ETL"></ETLDIR>
+  <HYDRAXDIR value="Hydrax"></HYDRAXDIR>
+  <CAELUMDIR value="Caelum"></CAELUMDIR>
+  <PAGEDGEOMETRYDIR value="PagedGeom"></PAGEDGEOMETRYDIR>
+  <MODELDIRECTORIES>
+    <DIRECTORY type="FileSystem" value=".."></DIRECTORY>
+  </MODELDIRECTORIES>
+  <MATERIALDIRECTORIES>
+  </MATERIALDIRECTORIES>
+  <CAMERAPOSITIONS count="1">
+    <OPTION id="0" position="-9.167 19.649 39.237" orientation="-0.213281 -0.000618 -0.000151 0.977026"></OPTION>
+    <OPTION id="1" position="0.161 7.503 -8.344" orientation="0.011694 0.974531 0.218010 -0.052114"></OPTION>
+  </CAMERAPOSITIONS>
+</PROJECT>
+<SCENE>
+  <SCENEMANAGER type="TerrainSceneManager" name="SceneManager" configfile="" ambient="0.000 0.000 0.000" skyboxactive="0" skyboxmaterial="" skyboxdistance="0.000000">
+    <CAMERA name="Camera3" position="-0.024 3.190 11.847" direction="-0.002 -0.208 -0.978" near="0.100" far="59994.000"></CAMERA>
+    <LIGHT type="LT_POINT" name="Light1" position="-0.496 8.445 3.418" direction="0.000 0.000 1.000" diffuse="1.000 1.000 1.000" specular="0.000 0.000 0.000" range="30.000 40.000 1.000" shadows="1" attenuation="10000.00 1.00 0.50 0.00"></LIGHT>
+    <SCENENODE name="Node9" position="-5.702 0.585 1.858" orientation="0.7431 0.0032 0.6691 0.0029" scale="1.000 0.899 1.000">
+      <ENTITY name="Entity9" mesh="pipe.mesh" shadows="1">
+        <SUBENTITY id="0" visible="1" material="lambert1"></SUBENTITY>
+      </ENTITY>
+    </SCENENODE>
+    <SCENENODE name="Node11" position="-6.424 0.550 -3.492" orientation="1.0000 0.0000 0.0000 0.0000" scale="0.501 0.422 0.454">
+      <ENTITY name="Entity11" mesh="pipe_2.mesh" shadows="1">
+        <SUBENTITY id="0" visible="1" material="lambert1"></SUBENTITY>
+      </ENTITY>
+    </SCENENODE>
+    <SCENENODE name="Node2" position="0.000 0.000 0.000" orientation="1.0000 0.0000 0.0000 0.0000" scale="29536.721 1.000 204.360">
+      <ENTITY name="Entity2" mesh="high_def_cube.mesh" shadows="0">
+        <SUBENTITY id="0" visible="1" material="lambert1"></SUBENTITY>
+      </ENTITY>
+    </SCENENODE>
+    <SCENENODE name="Node4" position="0.712 2.821 5.970" orientation="1.0000 0.0000 0.0000 0.0000" scale="11.730 4.553 0.923">
+      <ENTITY name="Entity4" mesh="high_def_cube.mesh" shadows="1">
+        <SUBENTITY id="0" visible="1" material="lambert1"></SUBENTITY>
+      </ENTITY>
+    </SCENENODE>
+    <SCENENODE name="Node5" position="-2.607 1.011 -0.257" orientation="1.0000 0.0000 0.0000 0.0000" scale="1.000 1.000 1.000">
+      <ENTITY name="Entity5" mesh="high_def_cube.mesh" shadows="1">
+        <SUBENTITY id="0" visible="1" material="lambert1"></SUBENTITY>
+      </ENTITY>
+    </SCENENODE>
+    <SCENENODE name="Node7" position="-0.958 0.605 -3.784" orientation="1.0000 0.0000 0.0000 0.0000" scale="1.000 1.000 1.000">
+      <ENTITY name="Entity7" mesh="bare_tree.mesh" shadows="1">
+        <SUBENTITY id="0" visible="1" material="lambert1"></SUBENTITY>
+      </ENTITY>
+    </SCENENODE>
+    <SCENENODE name="Node8" position="4.465 0.549 -0.669" orientation="1.0000 0.0000 0.0000 0.0000" scale="0.161 0.271 0.181">
+      <ENTITY name="Entity8" mesh="co2_tank.mesh" shadows="1">
+        <SUBENTITY id="0" visible="1" material="lambert1"></SUBENTITY>
+      </ENTITY>
+    </SCENENODE>
+  </SCENEMANAGER>
+</SCENE>
